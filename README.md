@@ -37,6 +37,7 @@ Webex Online Webinar Platform
 | Week 11   | Quantum Teleportation & Superdense Coding Protocol| Dr. Divyansh Shrimali, Project Engineer, C-DAC Bengaluru | Wednesday  | September 17, 2025 & 7:00 PM  - 8:00 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m8b677f8058372db4e85914d8e407c36e)||
 | Week 12   | Quantum Error Correction| Ms. HR Jeevitha, Project Engineer, C-DAC Bengaluru | Wednesday  | September 24, 2025 & 7:00 PM  - 8:00 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m751aab0bbe72cd2b901c67cc93811a4b)||
 | Week 13   | Introduction to Quantum Machine Learning | Mr. Sachin Namdeo, Project Engineer, C-DAC Bengaluru | Wednesday  | October 1, 2025 & 7:00 PM  - 8:00 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mcd20bce1832d61d8a8314b0719dedf74)|[Take a Quiz](https://forms.gle/5pwz5jiASKRbK6KR9)|
+| Week 14   | QSVM & QKMeans Algorithm | Mr. Sachin Namdeo, Project Engineer, C-DAC Bengaluru | Wednesday  | October 8, 2025 & 7:00 PM  - 8:00 PM |||
 
 
 **Note: Session Password:** Quantum@123
